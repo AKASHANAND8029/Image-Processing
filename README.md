@@ -1,0 +1,2 @@
+# Image-Processing
+ Image Processing in R by using magick package which provide a modern and simple toolkit for image processing. The ImageMagick library has an overwhelming amount of functionality.The magick package provide a modern and simple toolkit for image processing in R. It wraps the ImageMagick STL which is the most comprehensive open-source image processing library available today.Magick exposes a decent subset of it, but it is impossible to document everything in detail. This article introduces some basic concepts and examples to get started.
